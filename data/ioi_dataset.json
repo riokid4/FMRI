@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Alice and Bob were playing chess. Bob offered a pawn to",
+    "correct_target": " Alice",
+    "incorrect_target": " Bob"
+  },
+  {
+    "text": "Charlie and David went for a run. David passed a water bottle to",
+    "correct_target": " Charlie",
+    "incorrect_target": " David"
+  },
+  {
+    "text": "Emily and Frank attended a concert. Frank gave a flower to",
+    "correct_target": " Emily",
+    "incorrect_target": " Frank"
+  },
+  {
+    "text": "Grace and Henry built a sandcastle. Henry showed a shell to",
+    "correct_target": " Grace",
+    "incorrect_target": " Henry"
+  },
+  {
+    "text": "Ivy and Jack studied together. Jack explained a concept to",
+    "correct_target": " Ivy",
+    "incorrect_target": " Jack"
+  }
+]

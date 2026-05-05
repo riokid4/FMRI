@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+nnsight
+google-genai
+python-dotenv
+git+https://github.com/decoderesearch/circuit-tracer.git
